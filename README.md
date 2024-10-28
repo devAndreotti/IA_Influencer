@@ -10,14 +10,18 @@
    - **Objetivo**: Criar um rosto único, autêntico e atraente para a personagem virtual.
    - **Ferramentas**:
      - [Synthlife](https://synthlife.co/): Gera rosto realista e personalizável.
+     - [FLUX Realism LoRA]([https://synthlife.co/](https://fal.ai/models/fal-ai/flux-realism)): --- .
+     - [Foocus Colab]([https://synthlife.co/](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)): --- .
      - [Forgefluencer](https://www.forgefluencer.com/): Modelagem facial detalhada em 3D.
    - **Custo**: Em média, $20 - $50 (pagamento único).
    - **Tempo Estimado**: 1 - 2 horas.
 
-| Ferramenta         | Custo          | Descrição                        |
-|--------------------|----------------|----------------------------------|
-| Synthlife          | ~$25           | Criação de rosto realista        |
-| Forgefluencer      | ~$40           | Modelagem facial avançada em 3D  |
+| Ferramenta             | Descrição                        |
+|------------------------|----------------------------------|
+| Synthlife              | Criação de rosto realista        |
+| Forgefluencer          | Modelagem facial avançada em 3D  |
+| FLUX Realism LoRA      | ---        |
+| Foocus Colab           | ---  |
 
 ---
 
@@ -35,6 +39,10 @@
 
 ### 🎥 **Passo 4: Criar Deepfakes Realistas**
    - **Objetivo**: Animações em vídeo que fazem a influenciadora “falar” ou se expressar de forma realista.
+   - **Ferramenta**: [Synthlife](https://synthlife.co/) para animações e modelagem facial em vídeo.
+   - **Ferramenta**: [Synthlife](https://synthlife.co/) para animações e modelagem facial em vídeo.
+   - **Ferramenta**: [Synthlife](https://synthlife.co/) para animações e modelagem facial em vídeo.
+   - **Ferramenta**: [Synthlife](https://synthlife.co/) para animações e modelagem facial em vídeo.
    - **Ferramenta**: [Synthlife](https://synthlife.co/) para animações e modelagem facial em vídeo.
    - **Fontes de Vídeos**:
      - [Pexels](https://www.pexels.com/search/videos/woman/)
@@ -56,7 +64,7 @@
 | Ferramenta            | Função                           | Custo           |
 |-----------------------|----------------------------------|------------------|
 | Perplexity API        | Texto e legendas automáticas     | ~$5/mês         |
-| Make                  | Automação das postagens          | Sob consulta    |
+| Make                  | Automação das postagens          | Gratis    |
 
 ---
 
